@@ -1,7 +1,7 @@
 # Homathon_Helpers
 
 ## Idea
-This application linkس between the job seeker and the job provider in the health community.
+This application links between the job seeker and the job provider in the health community.
 
 
 ## Instruction
