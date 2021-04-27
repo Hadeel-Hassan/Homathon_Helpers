@@ -2,6 +2,7 @@
 
 ## Idea
 This application links between the job seeker and the job provider in the health community.
+This project was build as a DEMO for Homathon competition.
 
 
 ## Instruction
